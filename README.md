@@ -7,9 +7,9 @@ Power BI Cleaner itself was released as a Power BI Template, which made it effec
 
 ## Usage page 
 
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGMxMzIwMDAtMmMxYy00YmM3LWJkNDMtYzViMjVlYzc3MzY3IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCJ9)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMDIwZGFhOGEtMGI4Yi00YmY4LWExZDYtOGMxNzgwNjgyNzliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Power-BI-Cleaner-MS/blob/main/PBI-Cleaner-Gen2-V7-MS-Usage-Page.png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiZGMxMzIwMDAtMmMxYy00YmM3LWJkNDMtYzViMjVlYzc3MzY3IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCJ9)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Power-BI-Cleaner-MS/blob/main/PBI-Cleaner-Gen2-V7-MS-Usage-Page.png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiMDIwZGFhOGEtMGI4Yi00YmY4LWExZDYtOGMxNzgwNjgyNzliIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 The intended use of the **Usage** page is to quickly scan the connections between pages, visuals, tables, fields and measures, in any direction. Selecting any entry of any type will cross-filter all the other objects.  For example selecting a Page object will cross filter to show all the visuals on that page, and the tables, fields and measures that they reference. By contrast, selecting a Field  object will cross-filter to show the pages and visuals where it is used, and it's home table.
 

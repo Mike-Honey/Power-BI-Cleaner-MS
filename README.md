@@ -3,7 +3,11 @@ Power BI Cleaner - Manga Solutions Edition
 
 [Power BI Cleaner](https://www.thebiccountant.com/tools-power-bi-cleaner/) was a tool developed up to 2022 by [Imke Feldmann](https://www.linkedin.com/in/imkefeldmann), as a solution for exploring the used and unused objects within a Power BI Report.
 
-Power BI Cleaner itself was released as a Power BI Template, which made it effectively open for anyone to customise. To help solve problems for the clients of my [Manga Solutions](www.mangasolutions.com) consulting practice, we made a few enhancements and added a new **Usage** page.  That work is the starting point for this GitHub project. I welcome any ideas or contributions - please start the discussion by raising a Issue.
+Power BI Cleaner itself was released as a Power BI Template, which made it effectively open for anyone to customise. To help solve problems for the clients of my [Manga Solutions](www.mangasolutions.com) consulting practice, we made a few enhancements and added a new **Usage** page.  That work is the starting point for this GitHub project. 
+
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZGMxMzIwMDAtMmMxYy00YmM3LWJkNDMtYzViMjVlYzc3MzY3IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCJ9)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Power-BI-Cleaner-MS/blob/master/PBI-Cleaner-Gen2-V7-MS-Usage-Page.png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiZGMxMzIwMDAtMmMxYy00YmM3LWJkNDMtYzViMjVlYzc3MzY3IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCJ9)
 
 The intended use of the **Usage** page is to quickly scan the connections between pages, visuals, tables, fields and measures, in any direction. Selecting any entry of any type will cross-filter all the other objects.  For example selecting a Page object will cross filter to show all the visuals on that page, and the tables, fields and measures that they reference. By contrast, selecting a Field  object will cross-filter to show the pages and visuals where it is used, and it's home table.
 
@@ -12,6 +16,8 @@ The format is intended for "business analyst" types and other non-technical user
 There are several other tools around now to help with similar tasks, and some of them have more features. But they are mostly specific apps that must be installed, and they require some preparation work using Power BI Desktop. Most are quite technical in style, not aimed at a "business analyst" / non-technical audience. So I believe there is still a niche for this solution.
 
 The sample PBIX provided was pointed at my favourite demo file, the [Miradi template](https://github.com/Mike-Honey/miradi), which I maintain.  You can download that sample PBIX file there, or quickly view it online from that Project's page.
+
+## How-To
 
 The Power BI Cleaner blog post goes through the instructions in detail, but I can offer this condensed "How-To" guide, to use this solution against your own PBIX file:
 
@@ -23,3 +29,12 @@ The Power BI Cleaner blog post goes through the instructions in detail, but I ca
 6. Hit **Apply Changes**.
 7. After a few seconds, you will see the usual Credentials pop-up appear, titled **Access SQL Server Analysis Services**.  Leave it on the default method of **Windows **and choose **Connect**.
 8. Wait for the queries to refresh, then save your Power BI Cleaner PBIX file.
+
+I welcome any ideas or contributions - please start the discussion by raising a Issue.
+
+
+## 🤝 Support
+
+Contributions, issues, feature requests and sponsorship are all welcome!
+
+Give a ⭐️ if you like this project!

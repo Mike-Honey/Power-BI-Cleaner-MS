@@ -31,7 +31,7 @@ The Power BI Cleaner blog post goes through the instructions in detail, but I ca
 
 ## Discussion
 
-There are several other tools around now to help with similar tasks, and some of them have more features. This [article by SQLBI](https://www.sqlbi.com/articles/tools-in-power-bi/) gives a handy summary and describes each one. But those tools are mostly specific apps that must be installed, and they usually require some preparation work using Power BI Desktop before any results can be reviewed. Most are quite technical in style, not aimed at a "business analyst" / non-technical audience. None can be extended, customised or shared as easily as a PBIX file. So I believe there is still a niche for this solution.
+There are several other tools around now to help with similar tasks, and some of them have more features. This [article by SQLBI](https://www.sqlbi.com/articles/tools-in-power-bi/) gives a handy summary and describes each one. But those tools are mostly specific apps that must be installed and/or licensed, and they usually require some preparation work using Power BI Desktop before any results can be reviewed. Most are quite technical in style, not aimed at a "business analyst" / non-technical audience. None can be extended, customised or shared as easily as a PBIX file. So I believe there is still a niche for this solution.
 
 The sample PBIX file provided was pointed at my favourite demo file, the [Miradi template](https://github.com/Mike-Honey/miradi), which I maintain.  You can download that sample PBIX file there, or quickly view it online from that Project's page.
 
